@@ -1,2 +1,2 @@
 # Chronometer
-Developing a Chronometer to deepen my knowleg in JS, CSS and HTML5.
+Developing a Chronometer to deepen my knowleg in JavaSript, CSS and HTML5 on the front-end.
